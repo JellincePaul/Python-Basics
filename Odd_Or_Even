@@ -1,0 +1,7 @@
+# this program is used to find the if the user's input is odd or even
+num=input("Enter the number ")
+numm=int(num)
+if numm%2==0:
+    print("It is even number")
+else:
+    print("It is odd number")
