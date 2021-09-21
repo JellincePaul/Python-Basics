@@ -1,0 +1,7 @@
+a=input("Enter A number ")
+b=input("Enter B number ")
+print(" Before Swapping A = " +a +" B = "+b )
+temp=b
+b=a
+a=temp
+print(" After swapping A = " +a +" B = "+b)
