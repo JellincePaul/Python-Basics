@@ -1,0 +1,7 @@
+a=int(input("Enter A number "))
+b=int(input("Enter B number "))
+print(" Before Swapping A = " +format(a) +" B = "+format(b) )
+a=a+b
+b=a-b
+a=a-b
+print(" After swapping A = " +format(a) +" B = "+format(b))
