@@ -1,0 +1,6 @@
+name=input("Enter the student name : ")
+phone=input("Enter the phone number : ")
+percentage=input("Enter the percentage : ")
+print("Student Name : "+name)
+print("Phone Number : "+phone)
+print("Percentage : "+percentage)
